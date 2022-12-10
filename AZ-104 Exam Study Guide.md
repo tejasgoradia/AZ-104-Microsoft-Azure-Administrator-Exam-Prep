@@ -1,4 +1,4 @@
-# AZ-104-Microsoft-Azure-Administrator-Exam-Prep
+# [AZ-104-Microsoft-Azure-Administrator-Exam-Prep](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy)
 
 
 # Skills Measured
@@ -8,11 +8,19 @@
 - Configure and manage virtual networking (20-25%)
 - Monitor and maintain Azure resources (10–15%)
 
+# [Hands-on Labs by Microsoft Learn](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
+
+
+
 # Functional groups
 
 ## Manage Azure identities and governance (15–20%)
 
 **Manage Azure AD objects**
+
+[Lab - 01 - Manage Azure Active Directory Identities](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.html)
+
 - Create users and groups
 - Manage licenses in Azure AD
 - Create administrative units
@@ -23,11 +31,17 @@
 - Configure self-service password reset
 
 **Manage access control**
+
+[Lab - 02a - Manage Subscriptions and RBAC](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.html)
+
 - Create custom role-based access control (RBAC) and Azure AD roles
 - Provide access to Azure resources by assigning roles at different scopes
 - Interpret access assignments
 
 **Manage Azure subscriptions and governance**
+
+[Lab - 02b - Manage Governance via Azure Policy](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html)
+
 - Configure and manage Azure Policy
 - Configure resource locks
 - Apply and manage tags on resources
@@ -39,6 +53,9 @@
 ## Implement and manage storage (15–20%)
 
 **Configure access to storage**
+
+[Lab - 07 - Manage Azure storage](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_07-Manage_Azure_Storage.html)
+
 - Configure network access to storage accounts
 - Create and configure storage accounts
 - Generate shared access signature tokens
@@ -63,12 +80,24 @@
 ## Deploy and manage Azure compute resources (20–25%)
 
 **Automate deployment of resources by using templates**
+
+[Lab - 03a - Manage Azure resources by Using the Azure Portal](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.html)
+
+[Lab - 03b - Manage Azure resources by Using ARM Templates](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.html)
+
+[Lab - 03c - Manage Azure resources by Using Azure PowerShell](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03c-Manage_Azure_Resources_by_Using_Azure_PowerShell.html)
+
+[Lab - 03d - Manage Azure resources by Using Azure CLI](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03d-Manage_Azure_Resources_by_Using_Azure_CLI.html)
+
 - Modify an ARM template
 - Deploy a template
 - Save a deployment as an ARM template
 - Deploy virtual machine (VM) extensions
 
 **Create and configure VMs**
+
+[Lab - 08 - Manage Virtual Machines](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
+
 - Create a VM
 - Manage images by using the Azure Compute Gallery
 - Configure Azure Disk Encryption
@@ -80,6 +109,11 @@
 - Deploy and configure VM scale sets
 
 **Create and configure containers**
+
+[Lab - 09b - Implement Azure Container Instances](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09b-Implement_Azure_Container_Instances.html)
+
+[09c - Implement Azure Kubernetes Service](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09c-Implement_Azure_Kubernetes_Service.html)
+
 - Configure sizing and scaling for Azure Container Instances
 - Configure container groups for Azure Container Instances
 - Create and configure Azure Container Apps
@@ -89,6 +123,9 @@
 - Upgrade an AKS cluster
 
 **Create and configure an Azure App Service**
+
+[Lab - 09a - Implement Web Apps](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
+
 - Create an App Service plan
 - Configure scaling settings in an App Service plan
 - Create an App Service
@@ -101,6 +138,11 @@
 ## Configure and manage virtual networking (20–25%)
 
 **Configure virtual networks**
+
+[Lab - 04 - Implement Virtual Networking](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_04-Implement_Virtual_Networking.html)
+
+[Lab - 05 - Implement Intersite Connectivity](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.html)
+
 - Create and configure virtual networks and subnets
 - Create and configure virtual network peering
 - Configure private and public IP addresses
@@ -115,6 +157,9 @@
 - Configure private endpoints
 
 **Configure load balancing**
+
+[Lab - 06 - Implement Traffic Management](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.html)
+
 - Configure Azure Application Gateway
 - Configure an internal or public load balancer
 - Troubleshoot load balancing
@@ -129,6 +174,9 @@
 ## Monitor and maintain Azure resources (10–15%)
 
 **Monitor resources by using Azure Monitor**
+
+[Lab - 11 - Implement Monitoring](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_11-Implement_Monitoring.html)
+
 - Configure and interpret metrics
 - Configure Azure Monitor Logs
 - Query and analyze logs
@@ -136,6 +184,9 @@
 - Configure monitoring of VMs, storage accounts, and networks by using VM insights
 
 **Implement backup and recovery**
+
+[Lab - 10 - Implement Data Protection](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_10-Implement_Data_Protection.html)
+
 - Create an Azure Recovery Services vault
 - Create an Azure Backup vault
 - Create and configure backup policy
