@@ -19,7 +19,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Manage Azure AD objects**
 
-[Lab - 01 - Manage Azure Active Directory Identities](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.html)
+[Lab - 01 - Manage Azure Active Directory Identities ~30 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.html)
 
 - Create users and groups
 - Manage licenses in Azure AD
@@ -32,7 +32,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Manage access control**
 
-[Lab - 02a - Manage Subscriptions and RBAC](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.html)
+[Lab - 02a - Manage Subscriptions and RBAC ~30 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.html)
 
 - Create custom role-based access control (RBAC) and Azure AD roles
 - Provide access to Azure resources by assigning roles at different scopes
@@ -40,7 +40,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Manage Azure subscriptions and governance**
 
-[Lab - 02b - Manage Governance via Azure Policy](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html)
+[Lab - 02b - Manage Governance via Azure Policy ~30 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html)
 
 - Configure and manage Azure Policy
 - Configure resource locks
@@ -54,7 +54,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Configure access to storage**
 
-[Lab - 07 - Manage Azure storage](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_07-Manage_Azure_Storage.html)
+[Lab - 07 - Manage Azure storage ~40 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_07-Manage_Azure_Storage.html)
 
 - Configure network access to storage accounts
 - Create and configure storage accounts
@@ -81,13 +81,13 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Automate deployment of resources by using templates**
 
-[Lab - 03a - Manage Azure resources by Using the Azure Portal](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.html)
+[Lab - 03a - Manage Azure resources by Using the Azure Portal ~20 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.html)
 
-[Lab - 03b - Manage Azure resources by Using ARM Templates](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.html)
+[Lab - 03b - Manage Azure resources by Using ARM Templates ~20 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.html)
 
-[Lab - 03c - Manage Azure resources by Using Azure PowerShell](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03c-Manage_Azure_Resources_by_Using_Azure_PowerShell.html)
+[Lab - 03c - Manage Azure resources by Using Azure PowerShell ~20 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03c-Manage_Azure_Resources_by_Using_Azure_PowerShell.html)
 
-[Lab - 03d - Manage Azure resources by Using Azure CLI](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03d-Manage_Azure_Resources_by_Using_Azure_CLI.html)
+[Lab - 03d - Manage Azure resources by Using Azure CLI ~20 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03d-Manage_Azure_Resources_by_Using_Azure_CLI.html)
 
 - Modify an ARM template
 - Deploy a template
@@ -96,7 +96,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Create and configure VMs**
 
-[Lab - 08 - Manage Virtual Machines](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
+[Lab - 08 - Manage Virtual Machines ~50 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
 
 - Create a VM
 - Manage images by using the Azure Compute Gallery
