@@ -8,7 +8,7 @@
 - Configure and manage virtual networking (20-25%)
 - Monitor and maintain Azure resources (10–15%)
 
-# [Hands-on Labs by Microsoft Learn](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+# [Hands-on Labs by Microsoft Learn]
 https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 
