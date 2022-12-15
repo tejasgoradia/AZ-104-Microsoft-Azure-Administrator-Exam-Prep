@@ -110,9 +110,9 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Create and configure containers**
 
-[Lab - 09b - Implement Azure Container Instances](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09b-Implement_Azure_Container_Instances.html)
+[Lab - 09b - Implement Azure Container Instances ~20 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09b-Implement_Azure_Container_Instances.html)
 
-[09c - Implement Azure Kubernetes Service](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09c-Implement_Azure_Kubernetes_Service.html)
+[Lab - 09c - Implement Azure Kubernetes Service ~40 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09c-Implement_Azure_Kubernetes_Service.html)
 
 - Configure sizing and scaling for Azure Container Instances
 - Configure container groups for Azure Container Instances
@@ -124,7 +124,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Create and configure an Azure App Service**
 
-[Lab - 09a - Implement Web Apps](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
+[Lab - 09a - Implement Web Apps ~30 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
 
 - Create an App Service plan
 - Configure scaling settings in an App Service plan
@@ -139,9 +139,9 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Configure virtual networks**
 
-[Lab - 04 - Implement Virtual Networking](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_04-Implement_Virtual_Networking.html)
+[Lab - 04 - Implement Virtual Networking ~40 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_04-Implement_Virtual_Networking.html)
 
-[Lab - 05 - Implement Intersite Connectivity](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.html)
+[Lab - 05 - Implement Intersite Connectivity ~30 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.html)
 
 - Create and configure virtual networks and subnets
 - Create and configure virtual network peering
@@ -158,7 +158,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Configure load balancing**
 
-[Lab - 06 - Implement Traffic Management](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.html)
+[Lab - 06 - Implement Traffic Management ~60 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.html)
 
 - Configure Azure Application Gateway
 - Configure an internal or public load balancer
@@ -175,7 +175,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Monitor resources by using Azure Monitor**
 
-[Lab - 11 - Implement Monitoring](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_11-Implement_Monitoring.html)
+[Lab - 11 - Implement Monitoring ~45 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_11-Implement_Monitoring.html)
 
 - Configure and interpret metrics
 - Configure Azure Monitor Logs
@@ -185,7 +185,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 **Implement backup and recovery**
 
-[Lab - 10 - Implement Data Protection](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_10-Implement_Data_Protection.html)
+[Lab - 10 - Implement Data Protection ~50 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_10-Implement_Data_Protection.html)
 
 - Create an Azure Recovery Services vault
 - Create an Azure Backup vault
