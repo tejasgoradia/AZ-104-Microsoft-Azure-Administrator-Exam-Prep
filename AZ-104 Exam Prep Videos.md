@@ -1,8 +1,28 @@
 # Exam Questions videos
 
+## The Tech BlackBoard
+
 [AZ-104: Weekend Exam Cram | 190 Questions & Answers | Pass AZ-104 in 5 hours | Free pdf with answers by The Tech BlackBoard](https://www.youtube.com/watch?v=QGZWqYIpOMw)
 
+[AZ 104: Course changed by Microsoft | 27 October 2022 | Save 165 Dollars](https://youtu.be/kRFIzXkj7iM)
+
+[AZ-104: Case Studies Questions - Part 1: Do you understand them? Sample Case Study](https://youtu.be/VFTttRXOFGY)
+
+[AZ-104: Case Studies Questions - Part 2: Real Exam Case Study](https://youtu.be/k3N26uTOrQE)
+
+[AZ-104: Case Studies Questions - Part 3: Real Exam Case Study](https://youtu.be/LM07tA4BMwI)
+
+[AZ-104: Case Studies Questions - Part 4: Real Exam Case Study](https://youtu.be/TffyYaHTQvo)
+
 [AZ 900 Exam Cram - 135 new questions | Latest course covered by The Tech BlackBoard](https://youtu.be/R32_e358RZw)
+
+## Kevel Cheeda
+
+[Microsoft Azure Administrator az-104 practise questions real exam dumps by Keval Chheda](https://youtu.be/wQCDs1earSY)
+
+## Susanth Sutheesh
+
+[AZ-104 certification exam review questions and answers by Susanth Sutheesh](https://youtu.be/rr74T-HgqzI)
 
 
 # Hands-on lab videos
