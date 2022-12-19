@@ -6,7 +6,7 @@
 
 [AZ 104 - Real Questions | Answers | Explanation - Playlist](https://youtube.com/playlist?list=PL0AYtrUw-NRTX9NFza7kfTDlxYaKxooCk)
 
-[AZ 104: Course changed by Microsoft | 27 October 2022 | Save 165 Dollars](https://youtu.be/kRFIzXkj7iM)
+## Case Studies
 
 [AZ-104: Case Studies Questions - Part 1: Do you understand them? Sample Case Study](https://youtu.be/VFTttRXOFGY)
 
