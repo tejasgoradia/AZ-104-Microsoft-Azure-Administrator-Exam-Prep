@@ -19,3 +19,7 @@
 [AZ-104 Microsoft Azure Administrator Associate Certification SUPER Study Cram - OVER 500,000 VIEWS!](https://www.youtube.com/watch?v=VOod_VNgdJk&list=PLlVtbbG169nHz2qfLvPsAz9CnnXofhmcA&index=13)
 
 [AZ-104 Azure Administrator Study List by John Savill's Technical Training](https://youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
+
+# Other Resources
+
+[8 Azure Hands-On Labs Websites](https://softwarearchitect.ca/8-azure-hands-on-labs/)
