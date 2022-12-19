@@ -7,8 +7,7 @@ https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=az-104
 - [Preparing for AZ-104 - Implement and manage storage (2 of 5) (15–20%)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-implement-and-manage-storage-2-of-5)
 - [Preparing for AZ-104 - Deploy and manage Azure compute resources (3 of 5) (20–25%)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-deploy-and-manage-azure-compute-resources-3-of-5)
 - [Preparing for AZ-104 - Configure and manage virtual networking (4 of 5) (20–25%)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-configure-and-manage-virtual-networking-4-of-5)
-- [Preparing for AZ-104 - Monitor and maintain Azure resources (5 of 5)
-with La'Neice Lansey (10–15%)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-monitor-and-maintain-azure-resources-5-of-5)
+- [Preparing for AZ-104 - Monitor and maintain Azure resources (5 of 5) (10–15%)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-monitor-and-maintain-azure-resources-5-of-5)
 
 # Hands-on Labs by Microsoft Learn
 https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
