@@ -43,3 +43,5 @@
 # Other Resources
 
 [8 Azure Hands-On Labs Websites](https://softwarearchitect.ca/8-azure-hands-on-labs/)
+
+[ARM Templates Tutorial | Infrastructure as Code (IaC) for Beginners | Azure Resource Manager](https://youtu.be/Ge_Sp-1lWZ4)
