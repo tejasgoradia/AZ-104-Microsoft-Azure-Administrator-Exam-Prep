@@ -13,6 +13,15 @@ https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=az-104
 https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 
+# Microsoft Learn
+- [AZ-104: Prerequisites for Azure administrators](https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/)
+- [Preparing for AZ-104 - Manage Azure identities and governance (1 of 5) (15–20%)](https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/)
+- [Preparing for AZ-104 - Implement and manage storage (2 of 5) (15–20%)](https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/)
+- [Preparing for AZ-104 - Deploy and manage Azure compute resources (3 of 5) (20–25%)](https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/)
+- [Preparing for AZ-104 - Configure and manage virtual networking (4 of 5) (20–25%)](https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/)
+- [Preparing for AZ-104 - Monitor and maintain Azure resources (5 of 5) (10–15%)](https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/)
+
+
 # Functional groups
 
 ## Manage Azure identities and governance (15–20%)
