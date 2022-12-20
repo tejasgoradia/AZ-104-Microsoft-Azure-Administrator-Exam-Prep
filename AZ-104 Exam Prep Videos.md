@@ -48,4 +48,4 @@
 
 [ARM Templates Tutorial | Infrastructure as Code (IaC) for Beginners | Azure Resource Manager](https://youtu.be/Ge_Sp-1lWZ4)
 
-[Azure Citadel] (https://www.azurecitadel.com/fundamentals/)
+[Azure Citadel](https://www.azurecitadel.com/fundamentals/)
