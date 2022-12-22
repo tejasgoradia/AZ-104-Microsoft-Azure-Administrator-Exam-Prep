@@ -131,7 +131,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 - Configure network connections for AKS
 - Upgrade an AKS cluster
 
-**Create and configure an Azure App Service**
+[**Create and configure an Azure App Service ~ 21 min**](https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans/)
 
 [Lab - 09a - Implement Web Apps ~30 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
 
