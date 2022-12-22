@@ -26,9 +26,13 @@
 
 [AZ-104 certification exam review questions and answers by Susanth Sutheesh](https://youtu.be/rr74T-HgqzI)
 
+## PassAnyExam
 
 [Azure AZ-104 Exam | Microsoft Azure Administrator Exam | LATEST QUESTIONS |100% GUARANTEED PASS by PassAnyExam](https://youtu.be/-tFvTHbDFJA)
 
+
+# Cloud Guru Amit
+[AZ-104 Azure Administrator Exam Questions by Cloud Guru Amit](https://youtube.com/playlist?list=PLyABYqulvUwZy9lvxpC5cqJVpdMwwaagp)
 
 # Hands-on lab videos
 
