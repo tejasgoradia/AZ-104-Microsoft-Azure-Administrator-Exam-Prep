@@ -136,6 +136,7 @@ https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 [Lab - 09a - Implement Web Apps ~30 min](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
 
 [Configure Azure App Service plans ~21 min](https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans/)
+
 [Configure Azure App Service ~1 h](https://learn.microsoft.com/en-us/training/modules/configure-azure-app-services/)
 
 #### Topics
