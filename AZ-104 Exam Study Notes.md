@@ -4,8 +4,11 @@ What is a NAT gateway?
 Why do bastian host and firewall require dedicated subnets?
 
 Can a virtual network span accross multiple regions?
+I think the answer is 'No' since we have to select a region at the time of creating a virtual network
 
-Can a subnet span accross multiple regions?
+What is the difference between a service endpoint and private endpoint?
+
+What is the difference between Azure Application Gateway and Public Load Balancer?
 
 # [Questions on Hands-on Labs by Microsoft Learn](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
